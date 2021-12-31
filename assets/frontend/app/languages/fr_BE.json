@@ -1,0 +1,105 @@
+{
+  "HELLO_WORLD": "Bonjour le monde",
+
+  "EXAMPLE_FORM": "Ceci est un example de formulaire",
+  "FIRST_NAME": "Prénom",
+  "NEXT": "Prochain",
+  "SAVE": "Sauvegarder",
+  "FINISH": "Terminer",
+  "CONFIRM": "Confirmer",
+  "SUBMIT": "Envoyer",
+  "SHOW_MORE": "Montre plus",
+  "CANCEL": "Annuler",
+  "SEARCH": "RECHERCHE DWP",
+  "LOADING": "Charger",
+
+  "LOGIN.HEADER": "Bienvenu",
+  "LOGIN.USERNAME": "Nom d'utilisateur",
+  "LOGIN.USERNAME.PLACEHOLDER": "Veuillez entrer votre nom d'utilisateur",
+  "LOGIN.PASSWORD": "Mot de passe",
+  "LOGIN.PASSWORD.PLACEHOLDER": "Veuillez entrer votre mot de passe",
+  "LOGIN.SUBMIT": "Log in",
+  "LOGIN.ERROR": "Nom d'utilisateur et mot de passe sont incorrects",
+
+  "LOGOUT.LOGOUT": "Se déconnecter",
+
+  "COMPANY": "Entreprise",
+  "AVAILABLE_COMMODITIES": "Connexions commodity disponibles:",
+  "VAT": "TVA",
+  "CONTACT_PERSON": "Contact",
+  "PREFERRED_CONTACT_TIME": "TEMPS CONTACT PREFERE",
+
+  "OPPORTUNITIES" : "OPPORTUNITES",
+  "NO_OPPORTUNITIES_DEFINED" : "-pas d'opportunités définiées -",
+
+  "EAN" : "EAN",
+  "CONTACT" : "CONTACT",
+  "AROUND" : "Autour",
+
+  "QUOTES" : "QUOTES",
+  "NO_QUOTES_DEFINED" : "-pas de quotes définiés -",
+
+  "ADD" : "ajouter",
+  "SHOW_ALL": "Montrez tout",
+
+  "SAVING_LEAD" : "Sauvegarder Lead",
+  "CALCULATING" : "Calculer",
+
+  "PRICE_CALCULATION.TITLE": "Calculation de prix",
+  "PRICE_CALCULATION.CALCULATE": "Calcule",
+  "PRICE_CALCULATION.ADD_YEAR": "Ajoute année",
+  "PRICE_CALCULATION.RESET": "Reset",
+
+  "PRICE_OVERVIEW.TITLE": "Aperçu prix",
+
+  "VALID_UNTIL": "Valable jusqu'à",
+  "PRICED": "Tarifié",
+
+  "SAVING_OPPORTUNITIES" : "Sauvegarder opportunités",
+
+  "LIST.SORT_BY": "Trier",
+  "LIST.EXPORT_TO_CSV": "EXPORT VERS CSV",
+  "LIST.EMPTY_HEADER": "pas de données dans cette liste",
+  "LIST.EMPTY_MESSAGE": "Cette liste semble être vide.",
+  "LIST.LOADING_HEADER": "Charge liste...",
+  "LIST.QUICK_SEARCH": "Recherche...",
+
+  "MESSAGE_REQUIRED": "Vous devez remplir {{label}}.",
+  "MESSAGE_MINLENGTH": "{{label}} doit être plus long que {{minlength}} charactères.",
+  "MESSAGE_MAXLENGTH": "{{label}} doit être moins long que {{maxlength}} charactères.",
+  "MESSAGE_PATTERN": "{{label}} doit s'accorder avec le modèle: '{{pattern}}'.",
+  "MESSAGE_DATE_FORMAT_ERROR": "{{label}} a une forme de date mauvaise. Forme correcte est: 'dd/mm/yyyy'.",
+  "MESSAGE_TIME_FORMAT_ERROR": "{{label}} a une forme de temps mauvaise. Forme correcte est: 'hh:mm'.",
+
+  "MONTHS": "MOIS",
+
+  "FILTERS.FILTERS": "Filtres",
+  "FILTERS.SAVE": "sauvegarder",
+  "FILTERS.RESET": "reset",
+
+  "SIDEBAR.PLUS_MENU.TITLE": "Allons-y!",
+  "SIDEBAR.FILTERS.TITLE": "Filtres",
+
+  "UPLOAD.PLACEHOLDER": "Sélectionnez votre fichier",
+  "UPLOAD.UPLOADING": "Charge",
+
+  "NAVIGATE_AWAY_WARNING": "Êtes-vous sûr de vouloir quitter la page?",
+  "NAVIGATE_AWAY_WARNING_DATA_LOSS": "Le formulaire n'a pas encore été sauvegardé, êtes-vous sûr de vouloir quitter la page?",
+
+  "HASHTAG_TEXT_ADD_TAG": "Ajouter Tag",
+
+  "PAGINATION_TEXT": "montrant <b>{{start}} jusqu'à {{end}}</b> de {{total}} résultats",
+  "PAGINATION_TEXT_NO_TOTAL": "montrant <b>{{start}} jusqu'à {{end}}</b>",
+  "SELECT_WITH_SEARCH.SHOW_MORE": "... montrer {{ amount }} plus",
+  "SELECT_WITH_SEARCH.SHOW_LESS": "montrer moins",
+
+  "ADDRESS.RESET": "reset",
+  "LANGUAGE": "-- Langue --",
+
+  "DRAW_PAD.RESET": "reset",
+  "DRAW_PAD.CLEAR": "éffacer",
+
+  "SUGGESTION_CHANGE": "La suggestion choisie a également modifié les données suivants: {{diff}} Verifier si tu as fait le choix correct!",
+
+  "MAX_FILE_SIZE_ERROR": "La taille du fichier doit être limitée à {{max_file_size}}MB"
+}

@@ -1,0 +1,34 @@
+# PhpStorm - VSCode
+.vscode/
+.idea/
+.run/
+
+# Operating system specific items
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+#xdebug
+webgrind
+
+tests/_output/*
+
+src/App/ExternalApi/*
+dev/phpcs/windowsvagrantpath
+.tmp_staging
+public/Api/open-api.yml
+
+/bin/*
+!/bin/console
+
+# Shared package
+config/phpcs*
+!config/phpcs.custom.xml
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.*.local
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+

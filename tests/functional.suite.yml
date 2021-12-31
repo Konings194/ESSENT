@@ -1,0 +1,17 @@
+# Codeception Test Suite Configuration
+#
+# Suite for functional (integration) tests
+
+class_name: FunctionalTester
+modules:
+    enabled:
+        - Symfony: # Make sure this is before te Db module until we stop using it otherwise some functions will use Doctrine
+              app_path: src/
+              environment: '%APP_ENV%'
+              kernel_class: \App\Kernel
+        - Doctrine2:
+              depends: Symfony
+              cleanup: true
+        - Asserts
+        - Filesystem
+        - Mockery

@@ -1,0 +1,9 @@
+controllers:
+  resource: ../../src/Controller/
+  type: annotation
+  defaults:
+    stateless: true
+
+kernel:
+  resource: ../../src/Kernel.php
+  type: annotation

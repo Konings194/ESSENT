@@ -1,0 +1,6 @@
+parameters:
+  routerCacheFile: false
+
+services:
+  _defaults:
+    public: true
